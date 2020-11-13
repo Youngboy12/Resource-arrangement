@@ -8,3 +8,5 @@
 3、Grad-CAM：https://github.com/Youngboy12/pytorch-grad-cam
 
 4、CAM：https://github.com/zhoubolei/CAM
+
+5、CAM系列：https://github.com/frgfm/torch-cam
